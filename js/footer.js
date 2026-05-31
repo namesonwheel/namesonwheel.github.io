@@ -26,7 +26,7 @@
               </linearGradient>
             </defs>
           </svg>
-          <span>Wheel Of Names</span>
+          <span>Names On Wheel</span>
         </a>
         <p>The most fun and colorful free name picker wheel on the internet. Spin to pick a random name instantly!</p>
         <div class="footer-tags">
