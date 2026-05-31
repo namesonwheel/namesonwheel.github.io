@@ -25,7 +25,7 @@
             </defs>
           </svg>
         </div>
-        <span class="logo-text">Wheel Of<span class="logo-accent">Names</span></span>
+        <span class="logo-text">Names On<span class="logo-accent">Wheel</span></span>
       </a>
 
       <nav class="main-nav" role="navigation" aria-label="Main Navigation">
