@@ -30,16 +30,16 @@
 
       <nav class="main-nav" role="navigation" aria-label="Main Navigation">
         <ul>
-          <li><a href="#wheel-app">Spin Wheel</a></li>
-          <li><a href="#wheel-types">Wheel Types</a></li>
-          <li><a href="#how-it-works">How It Works</a></li>
-          <li><a href="#features">Features</a></li>
-          <li><a href="#faq">FAQ</a></li>
+          <li><a href="/#wheel-app">Spin Wheel</a></li>
+          <li><a href="/#wheel-types">Wheel Types</a></li>
+          <li><a href="/how-it-works">How It Works</a></li>
+          <li><a href="/features">Features</a></li>
+          <li><a href="/faq">FAQ</a></li>
         </ul>
       </nav>
 
       <div class="header-cta">
-        <a href="#wheel-app" class="btn-spin-now">
+        <a href="/#wheel-app" class="btn-spin-now">
           <span>Spin Now</span>
           <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8 1v6l4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="8" cy="10" r="5" stroke="currentColor" stroke-width="1.5"/></svg>
         </a>
@@ -52,11 +52,11 @@
 
     <div class="mobile-menu" id="mobile-menu">
       <ul>
-        <li><a href="#wheel-app">🎡 Spin Wheel</a></li>
-        <li><a href="#wheel-types">🎨 Wheel Types</a></li>
-        <li><a href="#how-it-works">📖 How It Works</a></li>
-        <li><a href="#features">✨ Features</a></li>
-        <li><a href="#faq">❓ FAQ</a></li>
+        <li><a href="/#wheel-app">🎡 Spin Wheel</a></li>
+        <li><a href="/#wheel-types">🎨 Wheel Types</a></li>
+        <li><a href="/#how-it-works">📖 How It Works</a></li>
+        <li><a href="/#features">✨ Features</a></li>
+        <li><a href="/#faq">❓ FAQ</a></li>
       </ul>
     </div>
   </header>`;
