@@ -26,7 +26,7 @@
               </linearGradient>
             </defs>
           </svg>
-          <span>NamesWheel</span>
+          <span>Wheel Of Names</span>
         </a>
         <p>The most fun and colorful free name picker wheel on the internet. Spin to pick a random name instantly!</p>
         <div class="footer-tags">
@@ -41,30 +41,31 @@
         <div class="footer-col">
           <h4>Wheel Tools</h4>
           <ul>
-            <li><a href="#wheel-app">Name Picker Wheel</a></li>
-            <li><a href="#wheel-types">Team Picker Wheel</a></li>
-            <li><a href="#wheel-types">Yes/No Wheel</a></li>
-            <li><a href="#wheel-types">Custom Prize Wheel</a></li>
-            <li><a href="#wheel-types">Number Wheel</a></li>
+            <li><a href="/#wheel-app">Name Picker Wheel</a></li>
+            <li><a href="/#wheel-types">Team Picker Wheel</a></li>
+            <li><a href="/#wheel-types">Yes/No Wheel</a></li>
+            <li><a href="/#wheel-types">Custom Prize Wheel</a></li>
+            <li><a href="/#wheel-types">Number Wheel</a></li>
           </ul>
         </div>
         <div class="footer-col">
           <h4>Use Cases</h4>
           <ul>
-            <li><a href="#use-cases">Classroom Picker</a></li>
-            <li><a href="#use-cases">Team Selection</a></li>
-            <li><a href="#use-cases">Giveaway Picker</a></li>
-            <li><a href="#use-cases">Decision Maker</a></li>
-            <li><a href="#use-cases">Game Spinner</a></li>
+            <li><a href="/#use-cases">Classroom Picker</a></li>
+            <li><a href="/#use-cases">Team Selection</a></li>
+            <li><a href="/#use-cases">Giveaway Picker</a></li>
+            <li><a href="/#use-cases">Decision Maker</a></li>
+            <li><a href="/#use-cases">Game Spinner</a></li>
           </ul>
         </div>
         <div class="footer-col">
           <h4>Information</h4>
           <ul>
-            <li><a href="#how-it-works">How It Works</a></li>
-            <li><a href="#features">Features</a></li>
-            <li><a href="#faq">FAQ</a></li>
-            <li><a href="#about">About Us</a></li>
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/terms">Terms of Use</a></li>
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/cookies">Cookies Policy</a></li>
           </ul>
         </div>
       </div>
