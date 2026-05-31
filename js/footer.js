@@ -66,6 +66,7 @@
             <li><a href="/contact">Contact</a></li>
             <li><a href="/about">About</a></li>
             <li><a href="/cookies">Cookies Policy</a></li>
+            <li><a href="/sitemap.xml">Sitemap</a></li>
           </ul>
         </div>
       </div>
